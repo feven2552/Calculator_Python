@@ -1,6 +1,6 @@
 # Simple Calculator
 
-Perform calculations effortlessly with our Simple Calculator application built using Python's Tkinter library. Whether you need to add, subtract, multiply, divide, or perform more complex operations, our calculator has you covered!
+Perform calculations effortlessly with our Simple Calculator application built using Python's Tkinter library. Whether you need to add, subtract, multiply, divide, or perform more complex operations.
 
 ## Features
 
