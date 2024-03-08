@@ -28,8 +28,7 @@ To run this calculator on your local machine, follow these steps:
 
 ## Screenshots
 
-![Calcu![Capture](https://github.com/feven2552/Calculator_Python/assets/93426602/1de99002-be35-4e66-939d-f0d4c4457a9d)
-lator](/path/to/calculator_screenshot.png)
+![Capture](https://github.com/feven2552/Calculator_Python/assets/93426602/642b6b10-af71-4957-97d8-75110ee6dc5c)
 *Calculator Interface*
 
 ## Contributions
